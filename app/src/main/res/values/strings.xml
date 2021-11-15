@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SariLoan Sikap</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="google_maps_api_key">AIzaSyA5NrXkAvzSu6WmJplE7pb5dyAesKBhuXo</string>
+
+    <string-array name="gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>

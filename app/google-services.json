@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "789034408813",
+    "firebase_url": "https://microfinance-d3fa5.firebaseio.com",
+    "project_id": "microfinance-d3fa5",
+    "storage_bucket": "microfinance-d3fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789034408813:android:1477f88ff8dc7b68",
+        "android_client_info": {
+          "package_name": "com.example.isiahlibor.microfinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789034408813-9ddkddqgq82qhtjmqml593gbn16ddhhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjVIjecXp1LqnryQlY2SwZ3odKkbl0yQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
